@@ -1,4 +1,0 @@
-train: /kaggle/working/dataset/train
-val: /kaggle/working/dataset/valid
-
-nc: 2
